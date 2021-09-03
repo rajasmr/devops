@@ -1,3 +1,5 @@
+Raja
+
 [[32m  OK  [0m] Started Show Plymouth Boot Screen.
 [[32m  OK  [0m] Reached target Paths.
 [[32m  OK  [0m] Started Forward Password Requests to Plymouth Directory Watch.
@@ -123,7 +125,15 @@ Welcome to [0;31mCentOS Linux 7 (Core)[0m!
 [[32m  OK  [0m] Started Create Volatile Files and Directories.
          Starting Security Auditing Service...
 [[32m  OK  [0m] Started LVM2 PV scan on device 8:2.
-[[0m[31m*     [0m] A start job is running for Security Auditing Service (11s / 1min 32s)[K[[1;31m*[0m[31m*    [0m] A start job is running for Security Auditing Service (11s / 1min 32s)[K[[31m*[1;31m*[0m[31m*   [0m] A start job is running for Security Auditing Service (12s / 1min 32s)[K[ [31m*[1;31m*[0m[31m*  [0m] A start job is running for Security Auditing Service (13s / 1min 32s)[K[  [31m*[1;31m*[0m[31m* [0m] A start job is running for Security Auditing Service (14s / 1min 32s)[K[   [31m*[1;31m*[0m[31m*[0m] A start job is running for Security Auditing Service (15s / 1min 44s)[K[    [31m*[1;31m*[0m] A start job is running for Security Auditing Service (16s / 1min 44s)[K[     [31m*[0m] A start job is running for Security Auditing Service (17s / 1min 44s)[K[[32m  OK  [0m] Reached target Sound Card.
+[[0m[31m*     [0m] A start job is running for Security Auditing Service (11s / 1min 32s)
+[K[[1;31m*[0m[31m*    [0m] A start job is running for Security Auditing Service (11s / 1min 32s)
+[K[[31m*[1;31m*[0m[31m*   [0m] A start job is running for Security Auditing Service (12s / 1min 32s)
+[K[ [31m*[1;31m*[0m[31m*  [0m] A start job is running for Security Auditing Service (13s / 1min 32s)
+[K[  [31m*[1;31m*[0m[31m* [0m] A start job is running for Security Auditing Service (14s / 1min 32s)
+[K[   [31m*[1;31m*[0m[31m*[0m] A start job is running for Security Auditing Service (15s / 1min 44s)
+[K[    [31m*[1;31m*[0m] A start job is running for Security Auditing Service (16s / 1min 44s)
+[K[     [31m*[0m] A start job is running for Security Auditing Service (17s / 1min 44s)
+[K[[32m  OK  [0m] Reached target Sound Card.
 [[32m  OK  [0m] Started Security Auditing Service.
          Starting Update UTMP about System Boot/Shutdown...
 [[32m  OK  [0m] Started Update UTMP about System Boot/Shutdown.
