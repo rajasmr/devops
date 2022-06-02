@@ -1,4 +1,4 @@
-metadata:
+ssetadata:
   name: game-2048
 ---
 apiVersion: apps/v1
