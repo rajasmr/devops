@@ -1,6 +1,6 @@
 FROM node:10-alpi
 
-RUN mkdir -p /app && chown -R node:node ap
+
 
 WORKDIR /app
 
