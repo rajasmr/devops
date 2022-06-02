@@ -1,4 +1,4 @@
-apiVersion: apps/v1
+ooapiVersion: apps/v1
 metadata:
   replicas: 1
   selector:
