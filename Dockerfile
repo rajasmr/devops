@@ -1,4 +1,4 @@
-FROM node:10-alpin
+FROM node:10-alpi
 
 RUN mkdir -p /app && chown -R node:node app
 
