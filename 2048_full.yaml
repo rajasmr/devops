@@ -4,7 +4,7 @@ ssetadata:
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  namespace: game-2048
+  namespace: game-
   name: deployment-2048
 spec:
   selector:
